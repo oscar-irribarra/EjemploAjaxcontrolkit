@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.CustomEditorStyle .ajax__htmleditor_editor_toptoolbar {
+        background-color:#ff0000; padding: 0px 0px 2px 2px;
+
+}
